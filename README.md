@@ -3,9 +3,9 @@
 
 ## Description
 
-A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
+A tutorial that explains how a specific regular expression, or RegEx, functions by breaking down each part of the expression and describing what it does.
 
-View the Regex Tutorial [here!](./gist-template.md)
+Specifically, this tutorial is a _**Guide to Understanding Regular Expression Matching in URLs**_. [View the guide here!](./gist-template.md)
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ For any ideas or feedback, please see my contact information [below](#questions)
 For any questions, please reach out to me through the following resources:
 
 Name: Samuel Pettyjohn <br>
-Title: Aspiring Developer <br>
+Title: Developer <br>
 Email: <sammpj47@gmail.com> <br>
 GitHub: <https://github.com/sam-pettyjohn/> <br>
 
